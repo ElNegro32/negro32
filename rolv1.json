@@ -11,4 +11,10 @@
                                                              " FIRESKUAD  " : {
         " mensaje " : " ! ip 87.237.52.14"
     },
+                                                               " DrogoLocal  " : {
+        " mensaje " : " ! ip 173.168.92.193"
+    },
+                                                               " DrogoVPS  " : {
+        " mensaje " : " ! ip 135.148.69.0"
+    },
 }
