@@ -20,4 +20,10 @@
                                                                  " Nunez F  " : {
         " mensaje " : " ! ip 2603:7000:733f:ede3:2c19:3be8:4f5f:f04a"
     },
+                                                                   " JOWY  " : {
+        " mensaje " : " ! ip 2001:41d0:800:3237::"
+    },
+                                                                   " Mini  " : {
+        " mensaje " : " ! ip 83.46.75.115"
+    },
 }
