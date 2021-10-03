@@ -38,4 +38,7 @@
                                                                          " Hostete  " : {
         " mensaje " : " ! ip 198.27.83.191"
     },
+                                                                     " SolMexico  " : {
+        " mensaje " : " ! ip 45.225.94.253"
+    },
 }
